@@ -23,10 +23,13 @@ Deep learning | Keras | AJAX | Bootstrap
 ![](https://github.com/Akshaykumarcp/cotton-plant-disease-prediction/blob/main/images/directory_structure.jpg)
 
 ## License 
-[<img align="left" alt="" width="22px" src="https://icon-icons.com/icons2/2649/PNG/512/mit_license_icon_160873.png" />](https://spdx.org/licenses/MIT.html)
+[<img align="left" alt="" width="52px" src="https://icon-icons.com/icons2/2649/PNG/512/mit_license_icon_160873.png" />](https://spdx.org/licenses/MIT.html)
+
+<br/>
 
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/akshay-kumar-c-p/)
 [<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/youtube.svg" />](https://www.youtube.com/channel/UC3l8RTE3zBRzUrHbSXpx-qA)
+[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/Akshaykumarcp)
 [<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/medium.svg" />](https://medium.com/@akshai.148)
