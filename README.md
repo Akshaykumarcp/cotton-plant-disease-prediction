@@ -3,9 +3,9 @@
 ## About Application:
 * Predict cotton plan disease based on the input image.
 * Dataset link: https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
-* Train data: 1957 images. Validation data: 324 images. Test data: 18 images
-* Trained using RESNET50, INCEPTIONV3 & RESNET152V2 architectures (TRANSFER LEARNING).
-* RESNET152V2 offered accuracy: 0.9810 - loss: 0.2066 - val_loss: 0.0000e+00 - val_accuracy: 1.0000 for 20 epochs.
+* Train data: <strong>1957</strong> images. Validation data: <strong>324</strong> images. Test data: <strong>18</strong> images
+* Trained using <strong>RESNET50, INCEPTIONV3 & RESNET152V2</strong> architectures (TRANSFER LEARNING).
+* <strong>RESNET152V2</strong> offered accuracy: 0.9810 - loss: 0.2066 - val_loss: 0.0000e+00 - val_accuracy: 1.0000 for 20 epochs.
 * Application predicts the uploaded image into 1 of the category: <strong>"diseased cotton leaf" </strong>, <strong>"diseased cotton plant" </strong>, <strong>"fresh cotton leaf" </strong>, and <strong>"fresh cotton plant"</strong> 
 * Images captured from drone/camera can be used to predict the cotton disease. Whereas, the manual intervention of detecting cotton disease would be difficult for large area of land.
 
@@ -15,5 +15,18 @@
 ## Tech stack:
 Deep learning | Keras | AJAX | Bootstrap 
 
+## Trained prediction model link
+* https://drive.google.com/drive/folders/1tkn1n3Z0LaSp2qUvX7Hxqa693B9AOntE?usp=sharing download model file and paste in project root directory.
+* Please refer below appliaction directory for reference.
+
 ## Application directory structure
 ![](https://github.com/Akshaykumarcp/cotton-plant-disease-prediction/blob/main/images/directory_structure.jpg)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="" />][Medium]
+
+
+
