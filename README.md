@@ -13,7 +13,7 @@
 * https://youtu.be/p8kCMDpUi3Y
 
 ## Tech stack:
-Deep learning | Keras | AJAX | Bootstrap | Pycharm IDE
+Deep learning | Keras | Python | AJAX | Bootstrap | Pycharm IDE
 
 ## Trained prediction model link
 * https://drive.google.com/drive/folders/1tkn1n3Z0LaSp2qUvX7Hxqa693B9AOntE?usp=sharing download model file and paste in project root directory.
