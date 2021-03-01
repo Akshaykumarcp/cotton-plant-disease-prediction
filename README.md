@@ -13,4 +13,7 @@
 * https://youtu.be/p8kCMDpUi3Y
 
 ## Tech stack:
+Deep learning | Keras | AJAX | Bootstrap 
 
+## Application directory structure
+![](https://github.com/Akshaykumarcp/cotton-plant-disease-prediction/blob/main/images/directory_structure.jpg)
