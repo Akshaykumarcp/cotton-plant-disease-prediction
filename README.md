@@ -13,7 +13,7 @@
 * https://youtu.be/p8kCMDpUi3Y
 
 ## Tech stack:
-Deep learning | Keras | AJAX | Bootstrap 
+Deep learning | Keras | AJAX | Bootstrap | Pycharm IDE
 
 ## Trained prediction model link
 * https://drive.google.com/drive/folders/1tkn1n3Z0LaSp2qUvX7Hxqa693B9AOntE?usp=sharing download model file and paste in project root directory.
@@ -22,10 +22,16 @@ Deep learning | Keras | AJAX | Bootstrap
 ## Application directory structure
 ![](https://github.com/Akshaykumarcp/cotton-plant-disease-prediction/blob/main/images/directory_structure.jpg)
 
+## How to run ?
+1. Clone/Download the project from github
+2. Follow above "Trained prediction model link" step
+3. create new conda/python environment, activate the environment created and install application dependencies via terminal command in root directory of the application by "pip install -r requirments.txt"
+4. Run app.py file (https://youtu.be/p8kCMDpUi3Y)
+
 ## License 
 [<img align="left" alt="" width="52px" src="https://icon-icons.com/icons2/2649/PNG/512/mit_license_icon_160873.png" />](https://spdx.org/licenses/MIT.html)
 
-<br/>
+<br/><br/>
 
 ### Connect with me:
 
